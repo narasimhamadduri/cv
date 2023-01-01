@@ -1,0 +1,30 @@
+<<!DOCTYPE html>
+<<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> my hobbies</title>
+  </head>
+  <body>
+    <h3>MY QUALITIES</h3>
+    <ol>
+          <li>GOOD AT CODING </li>
+          <li>CAN CODE FOR CONTINOUS 3HRS</li>
+    </ol>
+  </body>
+
+</html>
+
+
+
+
+<ul>
+  <li>c programming</li>
+  <li>python</li>
+  <li>java</li>
+  <li>html</li>
+  <li>css</li>
+  <li>java script</li>
+  <li>boot strap</li>
+  <li>j query</li>
+</ul>
